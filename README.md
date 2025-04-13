@@ -19,5 +19,5 @@ pandas
 
 ## Execució
 ```bash
-streamlit run app.py
+streamlit run taed.py
 ```
